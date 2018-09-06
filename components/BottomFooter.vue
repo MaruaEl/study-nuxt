@@ -5,7 +5,6 @@
     </div>
   </footer>
 </template>
-
 <style lang="scss">
 .bottom-footer {
   background: #e3f2ed;

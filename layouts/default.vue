@@ -6,19 +6,18 @@
     <bottom-footer/>
   </div>
 </template>
-
 <script>
-  import TopHeader from '~/components/TopHeader.vue'
-  import BottomFooter from '~/components/BottomFooter.vue'
+import TopHeader from "@/components/TopHeader"
+import BottomFooter from "@/components/BottomFooter"
 
-  export default {
-    components: {
-      TopHeader,
-      BottomFooter
-    }
+export default {
+  components: {
+    TopHeader,
+    BottomFooter
   }
+}
 </script>
 
 <style lang="scss">
-@import '../assets/scss/styles.scss';
+@import "../assets/scss/styles.scss";
 </style>

@@ -6,15 +6,15 @@
     </p>
   </div>
 </template>
-
 <script>
-export default {
-}
+export default {}
 </script>
 
 <style lang="css">
-  .container {
-    font-family: 'Quicksand', 'Source Sans Pro', apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+.container {
+    font-family: 'Quicksand', 'Source Sans Pro', apple-system,
+        BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+        sans-serif; /* 1 */
     padding: 3.5rem;
-  }
+}
 </style>
